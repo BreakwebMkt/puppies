@@ -13,7 +13,7 @@ body {
     margin: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
-    background-image: url(../image/about-img.png);
+    background-image: url(../image/links.png);
     padding: 0;
     background-position: center;
     background-size: cover;
